@@ -12,3 +12,20 @@ public class DictionaryPage {
         root=FXMLLoader.load(getClass().getResource("DictionaryPage.fxml"));
     }
 }
+
+
+public class DictionaryPage {
+
+    public AnchorPane root;
+    DictionaryPage() throws IOException{
+        root=FXMLLoader.load(getClass().getResource("DictionaryPage.fxml"));
+    }
+}
+
+public class DictionaryPage {
+
+    public AnchorPane root;
+    DictionaryPage() throws IOException{
+        root=FXMLLoader.load(getClass().getResource("DictionaryPage.fxml"));
+    }
+}
